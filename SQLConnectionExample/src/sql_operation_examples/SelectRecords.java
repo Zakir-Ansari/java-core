@@ -10,7 +10,7 @@ public class SelectRecords {
 
 	// Database credentials
 	static final String USER = "root";
-	static final String PASS = "Zakir@1627";
+	static final String PASS = "Zakir@12345";
 
 	public static void main(String[] args) {
 		Connection conn = null;
